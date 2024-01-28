@@ -1,20 +1,18 @@
-# Security Policy
+Thanks for helping make GitHub safe for everyone.
 
-## Supported Versions
+## Security
 
-Which versions of the project are currently being supported with security updates.
+GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
 
-| Version | Supported          |
-| ------- | ------------------ |
-| x.x.xb1   | :white_check_mark: |
+Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
 
-## Reporting a Vulnerability
+## Reporting Security Issues
 
-If you believe you have found a security vulnerability, please report it to us through coordinated disclosure.
+If you believe you have found a security vulnerability in any GitHub-owned repository, please report it to us through coordinated disclosure.
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, create an advisory via the security tab.
+Instead, please send an email to opensource-security[@]github.com.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
@@ -27,3 +25,7 @@ Please include as much of the information listed below as you can to help us bet
   * Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly.
+
+## Policy
+
+See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
